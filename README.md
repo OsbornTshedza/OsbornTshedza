@@ -32,6 +32,17 @@
 
 ---
 
+## 📜 Certifications
+
+- ✅ Microsoft Certified: Azure Administrator Associate (AZ-104)  
+- ✅ Microsoft Certified: Azure Fundamentals (AZ-900)  
+- 📍 AWS Certified Cloud Practitioner (In Progress)
+- 📍 Microsoft Certified: Security, Compliance, and Identity Fundamentals SC-900 (In Progress)
+
+🏗️ Working toward expanding my Azure & AWS certifications while mastering serverless & cloud-native DevOps architecture.
+
+---
+
 ## 💬 Ask Me About  
 - Cloud & Serverless Architecture  
 - CI/CD for AWS Projects  
